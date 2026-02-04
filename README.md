@@ -26,6 +26,7 @@ Environment
 ✅  Azure Monitor (alerts)
 
 
+
 # Step 1: I Created The Identities
 Why this matters ✅
 
@@ -182,13 +183,20 @@ This ensures similar incidents are detected early and investigated quickly.
 Key takeaways
 
 ✅ RBAC misconfigurations can cause real damage
+
 ✅ Excessive permissions are often more dangerous than exploits
+
 ✅ Azure logs provide strong accountability
+
 ✅ Least privilege reduces blast radius
+
 ✅ Monitoring closes the detection gap
 
-Why this project matters
+
+# Why This Project Matters
 
 This project demonstrates how real cloud security incidents occur, how they can be investigated, and how environments can be improved to prevent recurrence.
 
 It reflects how I approach cloud security: identify risk, validate impact, detect evidence, and strengthen controls.
+
+Thank you for the Read !!
